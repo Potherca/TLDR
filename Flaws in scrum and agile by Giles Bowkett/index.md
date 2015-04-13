@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Recently my new favorite unintentional troll [John Slegers] [tweeted] (https://twitter.com/johnslegers/status/574881993810403328) a link to an
+My new favorite unintentional troll [John Slegers] recently [tweeted] (https://twitter.com/johnslegers/status/574881993810403328) a link to an
 article by [Gilles Bowkett] called [Flaws In Scrum And Agile].
 
 Although I agree with the original premise I have a lot of difficulty with both
@@ -15,7 +15,7 @@ In case you have not read the article, it outlines various things that Bowkett
 feels are flawed in the Agile manifesto and the Scrum methodology. It states
 that the agile manifesto is good but has become old, possibly even outdated in
 light of contemporary tools. The author has problems with 4 of the 16 points
-that make up the Manifesto its principles. Scrum gives the author more reason
+that make up the Manifesto and its principles. Scrum gives the author more reason
 for complaint as, in his experience, things run smoother if the Scrum vocabulary
 is avoided. Several Scrum ceremonies and artifacts get in the way of
 adequately getting things done and the "distributed teams" model seems a better
