@@ -1,7 +1,11 @@
+---
+title: Flaws in scrum and agile by Giles Bowkett
+---
+
 
 ## Introduction
 
-My new favorite unintentional troll [John Slegers] recently [tweeted] (https://twitter.com/johnslegers/status/574881993810403328) a link to an
+My new favorite unintentional troll [John Slegers] recently [tweeted](https://twitter.com/johnslegers/status/574881993810403328) a link to an
 article by [Gilles Bowkett] called [Flaws In Scrum And Agile].
 
 Although I agree with the original premise I have a lot of difficulty with both
