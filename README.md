@@ -16,4 +16,4 @@ have to.
 The result (including my opinion) is stored here. For, you know, safe keeping.
 
 [Project Stage Badge: Experimental]: http://img.shields.io/badge/Project%20Stage-Experimental-yellow.svg
-[Project Stage Page]: http://bl.ocks.org/potherca/a2ae67caa3863a299ba0
+[Project Stage Page]: http://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
