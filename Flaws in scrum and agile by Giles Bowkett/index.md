@@ -38,7 +38,7 @@ products.
 
 ### The Good
 
-The valid points I could salvage from the article are 4 score.
+The valid points I could salvage from the article are 5 fold.
 
 The "Scrum" vocabulary is flawed beyond repair and should be avoided. Even if
 one were to use the scrum methodology, the vacabulary is misleading and best
@@ -57,6 +57,10 @@ Some parts of the Agile Manifesto might benefit from a minor update or at least
 a rewording. For instance, the delivery timescale can be shortened, the lines
 between business and developers have become less strict and the importance of
 various ubiquitous tools might be a welcome addition to the current phrasing.
+
+The Scrum/Agile Community at large has been hijacked, become toxic or is
+otherwise useless. "Being" agile is more important than "doing" agile and anyone
+with a certificate to claim otherwise is part of the problem.
 
 ### The Bad
 
