@@ -43,7 +43,7 @@
     {% for currentPage in site.pages %}
       {%if currentPage.path != "README.md" and currentPage.path != page.path %}
         <li>
-          <a href="{{ currentPage.url }}">
+          <a href="/TL-DR{{ currentPage.url }}">
             {{ currentPage.title }}
           </a>
         </li>
