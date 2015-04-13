@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # TL;DR
 
 Can't be arsed to form an opinion yourself about various articles, books, talks
