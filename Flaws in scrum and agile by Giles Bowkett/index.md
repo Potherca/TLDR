@@ -45,7 +45,7 @@ products.
 The valid points I could salvage from the article are 5 fold.
 
 The "Scrum" vocabulary is flawed beyond repair and should be avoided. Even if
-one were to use the scrum methodology, the vacabulary is misleading and best
+one were to use the scrum methodology, the vocabulary is misleading and best
 left out. Just use already existing words instead of trying to assign a
 different meaning to words that already mean something else.
 
@@ -55,7 +55,7 @@ Teams process combats this problem.
 
 The benefit of distributed teams and open source software are responsible for a
 lot of (commercial and technoligical) successful projects to a far larger extend
-than often given credit for. It good to see someone explicitly mention this.
+than often given credit for. It is good to see someone explicitly mention this.
 
 Some parts of the Agile Manifesto might benefit from a minor update or at least
 a rewording. For instance, the delivery timescale can be shortened, the lines
